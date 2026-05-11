@@ -24,6 +24,7 @@ A modular Cafeteria Billing System developed in C using file handling and struct
 - billing.c
 - record.c
 - main_driver.c
+- main.c
 
 ## Compile Command
 
